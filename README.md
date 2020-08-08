@@ -1,4 +1,4 @@
-# TipCalculator
+# TipCalculator for Android
 An app that the tip and total for you and your friends
 
 # Usage
